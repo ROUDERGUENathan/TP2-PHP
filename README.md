@@ -1,4 +1,4 @@
-# 💻 TP2 — Développement Web PHP
+# TP2 — Développement Web PHP
 
 Projet réalisé dans le cadre du **BTS CIEL** — Développement Web / PHP.
 
@@ -6,11 +6,11 @@ Ce TP a pour objectif de mettre en pratique les notions de **PHP**, de **formula
 
 ---
 
-## 📚 Contenu du projet
+## Contenu du projet
 
 Le projet est composé de deux exercices.
 
-### 🛒 Exercice 1 — ACHAT
+### Exercice 1 — ACHAT
 
 Création d'un formulaire permettant de commander des cours.
 
@@ -31,7 +31,7 @@ La liste des cours disponibles est paramétrée dans `cours.php`.
 
 ---
 
-### ❤️ Exercice 2 — DONS
+### Exercice 2 — DONS
 
 Création d'un formulaire pour un site de dons caritatifs.
 
@@ -65,7 +65,7 @@ Le projet permet également :
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```text
 TP2-PHP/
@@ -74,14 +74,15 @@ TP2-PHP/
 │   ├── index.php
 │   ├── page2.php
 │   ├── cours.php
-│   └── logo.png
-│
+│   ├── logo.png
+│   └── style.css
 ├── Exercice2/
 │   ├── index.php
 │   ├── enregistrer.php
 │   ├── resultats.php
 │   ├── resultats.txt
-│   └── logophp.png
+|   ├── logophp.png
+│   └── style.css
 ```
 
 > La structure peut légèrement varier selon l'organisation finale du projet.
@@ -90,12 +91,11 @@ TP2-PHP/
 
 ## 🛠️ Technologies utilisées
 
-* **HTML5**
+* **HTML**
 * **CSS3**
 * **PHP**
 * **WampServer**
 * **Fichiers texte**
-* **JPGraph**
 
 ---
 
@@ -135,15 +135,7 @@ http://localhost/TP2-PHP/
 
 ---
 
-## 📊 JPGraph
-
-L'exercice 2 utilise la bibliothèque **JPGraph** pour générer des graphiques à partir des données enregistrées.
-
-La bibliothèque doit être présente dans le projet et correctement référencée par les fichiers PHP concernés.
-
----
-
-## 🧪 Fonctionnement
+## Fonctionnement
 
 ### Exercice 1 — Achat
 
@@ -173,11 +165,10 @@ Une page de résultats permet ensuite d'afficher les dons ainsi que :
 
 * le montant total récolté ;
 * la moyenne d'âge des participants ;
-* la représentation graphique des données.
 
 ---
 
-## 🎯 Objectifs pédagogiques
+## Objectifs pédagogiques
 
 Ce TP permet de travailler :
 
