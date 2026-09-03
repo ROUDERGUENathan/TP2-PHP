@@ -89,17 +89,17 @@ TP2-PHP/
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 * **HTML**
-* **CSS3**
+* **CSS**
 * **PHP**
 * **WampServer**
 * **Fichiers texte**
 
 ---
 
-## 🚀 Installation avec WampServer
+## Installation avec WampServer
 
 ### 1. Installer WampServer
 
@@ -185,7 +185,7 @@ Ce TP permet de travailler :
 
 ---
 
-## 👨‍💻 Auteur
+## Auteur
 
 **Nathan Roudergue**
 
@@ -193,8 +193,6 @@ Projet réalisé dans le cadre du **BTS CIEL**.
 
 ---
 
-## 📌 Statut
+## Statut
 
-✅ **TP terminé**
-
-Projet réalisé à des fins pédagogiques.
+**TP terminé**
